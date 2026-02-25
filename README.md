@@ -22,6 +22,7 @@ A simple microblog web application built using Flask and MongoDB Atlas.
 ---
 ## 📂 Project Structure
 
+```
 micro-blog-flask/
 │
 ├── app.py
@@ -34,3 +35,4 @@ micro-blog-flask/
 ├── static/
 │   ├── styles.css
 │   └── logo.svg
+```
